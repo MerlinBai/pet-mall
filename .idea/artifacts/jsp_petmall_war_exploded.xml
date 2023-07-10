@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="jsp_petmall:war exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/jsp_petmall_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="c3p0-0.9.5.2" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="jsp_petmall/web/Web" />
+    </root>
+  </artifact>
+</component>

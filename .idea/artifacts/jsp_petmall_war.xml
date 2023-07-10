@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jsp_petmall:war">
+    <output-path>$PROJECT_DIR$/classes/artifacts/jsp_petmall_war</output-path>
+    <root id="archive" name="jsp_petmall_war.war">
+      <element id="artifact" artifact-name="jsp_petmall:war exploded" />
+    </root>
+  </artifact>
+</component>
